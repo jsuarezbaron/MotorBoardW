@@ -1,0 +1,19 @@
+
+L298N DC Stepper Motor Driver Module w 6CH Optocoupler Isolation 
+
+
+
+Key Design:
+http://www.nbglin.com/l298ng.htm
+【Product features】
+The L298N drive module, using the original L298N chip of ST company, can directly drive two 3-24V DC motor speed and direction, but also can control 1 4 line 2 phase stepper motor.Using high-speed optocoupler isolation circuit, control signal of support for 5V or 3.3V voltage.
+
+【The photoelectric isolation circuit】
+Enable pins ( ENA, ENB ) high-speed optocoupler HCPL2630 isolation of PWM signal input, support PWM frequencies up to 10MHz. The IN1, IN2, IN3, IN4 use of PC817 photoelectric isolation, the motor drive part and a control signal is completely isolated. Includes PC817 Series High Density Mounting Type Photocoupler. 
+
+L298N DC stepper motor drive module ,robot parts ,6 optocoupler isolated
+Includes the  TLP521-4 series of optically coupled isolators consist of infrared light emitting diodes and NPN silicon photo transistors in space efficient dual in line plastic packages.
+
+
+2 Channel CH Dual H-bridge DC Motor Driver Module Positive / Negative Rotate PWM Regulation Optocoupler Isolation L298 7A 160W
+https://www.aliexpress.com/item/2-Channel-CH-Dual-H-bridge-DC-Motor-Driver-Module-Positive-Negative-Rotate-PWM-Regulation-Optocoupler/32802163315.html?spm=2114.40010708.4.18.c9FVwz
